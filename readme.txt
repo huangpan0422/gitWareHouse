@@ -4,7 +4,7 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes.
 Creating a new branch is quick.
-Git is free software.
+Git is a free software.
 Creating a new branch is quick and simple.
 switched to a new branch 'dev'
 
